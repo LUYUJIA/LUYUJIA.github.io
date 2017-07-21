@@ -28,6 +28,6 @@ permalink: /about/
 联系方式
 ===
 
-- 新浪微博:<a href="http://weibo.com/u/5106974709">LUYUJIA</a>
+- 新浪微博:<a href="http://www.weibo.com/u/5106974709">LUYUJIA</a>
 - github:<a href="https://github.com/LUYUJIA">LUYUJIA</a>
 - Email:<276598625@qq.com>
