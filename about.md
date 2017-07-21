@@ -7,6 +7,7 @@ permalink: /about/
 <!--
 [我](http://7xlgu7.com1.z0.glb.clouddn.com/me.jpg)
 -->
+
 我的格言
 ===
 
@@ -21,6 +22,7 @@ permalink: /about/
 ===
 
 南京理工大学(Nanjing University of Science and Technology)  2011~2015
+
 京都大学(Kyoto University)  2016~2018
 
 联系方式
