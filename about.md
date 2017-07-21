@@ -5,23 +5,24 @@ id: id_about_me
 permalink: /about/
 ---
 
-![我就是我](http://7xlgu7.com1.z0.glb.clouddn.com/me.jpg)
+#[我](http://7xlgu7.com1.z0.glb.clouddn.com/me.jpg)
 
 我的格言
 ===
-> 坚持自己的信仰，坚信每一个人都有蜕变的哪一刻。
+> 解释过去，预测未来。
 
 自我介绍
 ===
-90后刚入道的程序员一枚，热爱WEB前端，喜欢旅游和运动。梦想着能慢慢成长为一个小有成就的前端工程师。付出自己的努力，坚信梦想不只是梦。
+> 热衷于数据科学，立志成为数据分析师。
 
 教育经历
 ===
-攀枝花学院(Panzhihua University)  2011~2015
+>南京理工大学(Nanjing University of Science and Technology)  2011~2015
+>京都大学(Kyoto University)  2016~2018
 
 联系方式
 ===
 
-- 新浪微博:[Guovz](http://www.weibo.com/guovz/)
-- github:[Guovz](https://github.com/guovz)
-- Email:[pzhuwjl@qq.com](pzhuwjl@qq.com)
+- 新浪微博:[LUYUJIA](http://weibo.com/u/5106974709)
+- github:[LUYUJIA](https://github.com/LUYUJIA)
+- Email:[276598625@qq.com](276598625@qq.com)
