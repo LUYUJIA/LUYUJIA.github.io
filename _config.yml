@@ -23,7 +23,7 @@ kramdown:
 
 
 # 地址设置
-baseurl: "/luyujia.github.io"
+baseurl: "https://github.com/LUYUJIA/LUYUJIA.github.io"
 url: "https://luyujia.github.io"
 
 
