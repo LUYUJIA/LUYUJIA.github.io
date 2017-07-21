@@ -11,19 +11,19 @@ permalink: /about/
 我的格言
 ===
 
-### 解释过去，预测未来。
+#### 解释过去，预测未来。
 
 自我介绍
 ===
 
-### 热衷于数据科学，立志成为数据分析师。
+#### 热衷于数据科学，立志成为数据分析师。
 
 教育经历
 ===
 
-### 南京理工大学(Nanjing University of Science and Technology)  2011~2015
+#### 南京理工大学(Nanjing University of Science and Technology)  2011~2015
 
-### 京都大学(Kyoto University)  2016~2018
+#### 京都大学(Kyoto University)  2016~2018
 
 联系方式
 ===
