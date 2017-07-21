@@ -21,9 +21,9 @@ permalink: /about/
 教育经历
 ===
 
-#### 南京理工大学(Nanjing University of Science and Technology)  2011~2015
+#### 南京理工大学 (Nanjing University of Science and Technology)   2011~2015
 
-#### 京都大学(Kyoto University)  2016~2018
+#### 京都大学 (Kyoto University)  2 016~2018
 
 联系方式
 ===
