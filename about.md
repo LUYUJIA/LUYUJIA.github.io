@@ -13,11 +13,13 @@ permalink: /about/
 <br>
 #### 解释过去，预测未来。
 <br>
+
 自我介绍
 ===
 <br>
 #### 热衷于数据科学，立志成为数据分析师。
 <br>
+
 教育经历
 ===
 <br>
@@ -25,6 +27,7 @@ permalink: /about/
 <br>
 #### 京都大学 (Kyoto University)  2016~2018
 <br>
+
 联系方式
 ===
 
